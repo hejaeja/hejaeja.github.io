@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Första inlägget
+title: Forsta inlagget
 subtitle: nagot
 categories: nagot
 tags: [test]
