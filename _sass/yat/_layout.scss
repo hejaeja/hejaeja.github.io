@@ -17,7 +17,7 @@ html {
 
       &.site-header {
         .site-brand-inner, .page-link {
-          color: #fff;
+          color: #a8323a;
           transition: 0.1s color;
         }
 
@@ -585,7 +585,7 @@ html {
       margin: 0;
 
       > :nth-child(1) {
-        @include relative-font-size(3.9);
+        @include relative-font-size(8);
         letter-spacing: -1px;
         line-height: 0.95;
         margin-bottom: 18px;
